@@ -34,7 +34,7 @@ a:active {
 }
 
 body {
-  background-color: #fff3b3
+  background-image: images("honeycomb.jpg");
 }
 
 h2 {
