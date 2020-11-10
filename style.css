@@ -10,6 +10,11 @@ body {
   text-align: center;
 }
 
+.item {
+  flex: 1;
+  margin: 10px;
+}
+
 h1 {
   font-family: 'Courier New';
   font-size: 46px;
