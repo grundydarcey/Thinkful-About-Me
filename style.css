@@ -45,8 +45,12 @@ p {
 }
 
 div {
- width: 70%;
+  width: 70%;
   margin: 0 auto;
+}
+
+.container {
+  font-size: 50px;
 }
 
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
