@@ -41,12 +41,11 @@ p {
   font-family: georgia;
   text-align: center;
   line-height: 17px;
-  
+  font-size: 40px;  
 }
 
 div {
- width: 50%;
-  height: 400px;
+ width: 70%;
   margin: 0 auto;
 }
 
