@@ -4,7 +4,7 @@ header {
 }
 /* This keeps my text from being wall-to-wall with some padding.*/
 
-.contact {
+section {
   text-align: center;
 }
 
@@ -40,6 +40,7 @@ p {
   font-family: georgia;
   text-align: center;
   line-height: 17px;
+  max-width: 400px;
 }
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
 
