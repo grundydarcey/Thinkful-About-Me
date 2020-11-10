@@ -68,3 +68,7 @@ a:active {
   margin-bottom: 50px;
   margin: auto;
 }
+
+.group img {
+  width: 100%;
+}
