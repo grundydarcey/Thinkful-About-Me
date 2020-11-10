@@ -45,10 +45,6 @@ p {
 }
 /* This centers most of my page sections that aren't included in H1, H2, H3 and P.*/
 
-.group img {
-  width: 100%;
-}
-
 a:link {
   background-color: #eed9sf
 }
@@ -70,4 +66,5 @@ a:active {
   display: flex;
   flex-direction: rows;
   margin-bottom: 50px;
+  margin: auto;
 }
