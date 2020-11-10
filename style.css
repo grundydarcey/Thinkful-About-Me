@@ -41,7 +41,7 @@ p {
   font-family: georgia;
   text-align: center;
   line-height: 17px;
-  font-size: 40px;  
+  font-size: 25px;  
 }
 
 .about {
@@ -51,7 +51,7 @@ p {
 }
 
 .container {
-  font-size: 50px;
+  font-size: 30px;
 }
 
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
