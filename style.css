@@ -52,6 +52,11 @@ p {
   width: 70%;
   margin: 0 auto;
   line-height: 15px;
+  font size: 30px;
+}
+
+li {
+  font-size: 18px;
 }
 
 .container {
