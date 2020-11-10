@@ -87,7 +87,7 @@ a:active {
 
 .group {
   display: flex;
-  flex-direction: row;
+  flex-direction: column-reverse;
   margin-bottom: 50px;
   margin: auto;
 }
