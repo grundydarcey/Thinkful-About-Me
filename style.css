@@ -8,7 +8,6 @@ body {
   background-color: #fff3b3
 }
 
-
 h1 {
   font-family: 'Courier New';
   font-size: 46px;
@@ -45,6 +44,10 @@ p {
   width: 50%;
 }
 /* This centers most of my page sections that aren't included in H1, H2, H3 and P.*/
+
+.group img {
+  width: 100%;
+}
 
 a:link {
   background-color: #eed9sf
