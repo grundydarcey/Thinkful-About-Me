@@ -47,7 +47,7 @@ p {
 div {
  width: 50%;
   height: 400px;
-  text-align: center;
+  margin: auto;
 }
 
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
@@ -99,4 +99,5 @@ footer {
 }
 
 main {
-  text-align: center;
+  margin: auto;
+}
