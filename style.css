@@ -1,12 +1,11 @@
 header {
   padding-right: 12px;
   padding-left: 12px;
-  background-image: honeycomb.jpg;
+  background-image: "honeycomb.jpg";
 }
 /* This keeps my text from being wall-to-wall with some padding.*/
 
 body {
-  background-color: #fff3b3;
   text-align: center;
 }
 
