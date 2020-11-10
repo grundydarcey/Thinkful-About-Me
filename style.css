@@ -46,9 +46,14 @@ p {
 div {
  width: 50%;
   height: 400px;
+  text-align: center;
 }
 
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
+
+contact {
+  text-align: center;
+}
 
 .center {
   display: block;
