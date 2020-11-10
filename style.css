@@ -47,7 +47,7 @@ p {
 div {
  width: 50%;
   height: 400px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
