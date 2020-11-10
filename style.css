@@ -62,3 +62,9 @@ a:active {
   background-color: #b8af81
 }
 /*All four of these refer to different states of my clickable links contained in my footer.*/
+
+.group {
+  display: flex;
+  flex-direction: rows;
+  margin-bottom: 50px;
+}
