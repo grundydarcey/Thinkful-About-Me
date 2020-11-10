@@ -4,6 +4,12 @@ header {
 }
 /* This keeps my text from being wall-to-wall with some padding.*/
 
+.contact {
+  text-align: center;
+}
+
+
+
 body {
   background-color: #fff3b3
 }
@@ -72,3 +78,6 @@ a:active {
 .group img {
   width: 100%;
 }
+
+footer {
+  background-color: white;
