@@ -40,8 +40,14 @@ p {
   font-family: georgia;
   text-align: center;
   line-height: 17px;
-  max-width: 400px;
+  
 }
+
+div {
+ width: 50%;
+  height: 400px;
+}
+
 /*This is the bulk of my text, so it should be smaller to contain more information.*/
 
 .center {
